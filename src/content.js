@@ -7,7 +7,7 @@
 const content = {
   // Names
   sisterName: "My Dear Sister",
-  senderName: "Your Brother",
+  senderName: "Vikash",
 
   // Hero section
   heroSubtitle:
@@ -18,13 +18,18 @@ const content = {
   // this string with the first line of the message itself)
   letter: `Dear Sister,
 
+तेरी मुस्कान से रोशन मेरा हर जहान है,
+तू मेरी बहना नहीं, मेरी जान है।
+लड़ते हैं, झगड़ते हैं, फिर प्यार भी बेहिसाब करते हैं,
+राखी का ये रिश्ता हमारा सबसे खास पहचान है।
+
 No matter how far we are, our bond will always remain close to the heart.
 
 Through every smile, every memory, and every difficult moment, we will always stand together.
 
 Happy Raksha Bandhan ❤️
 
-May our relationship always be filled with love, happiness, and beautiful memories.`,
+हमेशा खुश रहना मेरी प्यारी बहना ❤️ — तेरा भाई, Vikash`,
 
   // Special quote
   quote:
