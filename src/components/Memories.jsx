@@ -10,10 +10,6 @@ export default function Memories() {
     <section className={`section reveal${visible ? " is-visible" : ""}`} ref={ref} aria-label="Our beautiful memories">
       <p className="eyebrow">Photo Gallery</p>
       <h2 className="section-title">Our Beautiful Memories ❤️</h2>
-      <p className="memories__hint">
-        Replace the images in <code>public/images/</code> with your real photos — see the README.
-      </p>
-
       <div className="memories__grid">
         {content.memories.map((m, i) => (
           <button
